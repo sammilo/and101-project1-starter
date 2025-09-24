@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='https://www.loom.com/share/52fb72bd433f47caa2ee27b49a0a33bb?sid=a8036cb0-95b9-427e-adf5-5bdd2a7db0bf' title='Video Demo' width='' alt='Video Demo' />
+<video src='https://www.loom.com/share/52fb72bd433f47caa2ee27b49a0a33bb?sid=a8036cb0-95b9-427e-adf5-5bdd2a7db0bf' title='Loom Demo' width='' alt='Video Demo' />
 
 ## Notes
 
